@@ -1,0 +1,5 @@
+.list { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 16px; }
+.item { display: flex; gap: 12px; align-items: center; }
+.item p { margin: 0; }
+.item img { border-radius: 4px; }
+.placeholder { width: 80px; height: 120px; background: #d9d4cc; border-radius: 4px; flex-shrink: 0; }

@@ -1,0 +1,3 @@
+.list { display: grid; gap: 20px; }
+.author { margin: 0 0 4px; }
+.content { margin: 0; white-space: pre-line; max-width: 70ch; }
